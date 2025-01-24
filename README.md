@@ -1,2 +1,3 @@
-# lms_epaper_skin
-A Lyrion Media Server sink, suitable for e-paper use.
+# lms_eink_skin
+A skin for Lyrion Music Server suitable for eink displays
+
