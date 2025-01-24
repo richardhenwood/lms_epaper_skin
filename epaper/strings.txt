@@ -1,0 +1,5 @@
+EPAPER_SKIN
+	EN	e-paper
+	
+PLUGIN_EPAPER_SKIN
+	EN	This is a skin suitable for e-paper devices as well as desktop use.

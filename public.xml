@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<extensions>
+  <details>
+    <title lang="EN">e-paper Skin</title>
+  </details>
+  <plugins>
+    <plugin name="epaperSkin" version="0.1" minTarget="0.1" maxTarget="*">
+      <title lang="EN">e-paper Skin</title>
+      <desc lang="EN">A Lyrion Media Server sink, suitable for e-paper use.</desc>
+      <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/0.1/lms-epaper-0.1.zip</url>
+      <sha></sha>
+      <creator>Richard Henwood</creator>
+    </plugin>
+  </plugins>
+</extensions>
