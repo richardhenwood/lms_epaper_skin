@@ -4,7 +4,7 @@
     <title lang="EN">e-paper Skin</title>
   </details>
   <plugins>
-    <plugin name="epaperSkin" version="0.1" minTarget="0.1" maxTarget="*">
+    <plugin name="epaperskin" version="0.1" minTarget="0.1" maxTarget="*">
       <title lang="EN">e-paper Skin</title>
       <desc lang="EN">A Lyrion Media Server skin suitable for e-paper use.</desc>
       <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/v0.1.1/lms-epaper-skin-0.1.1.zip</url>
