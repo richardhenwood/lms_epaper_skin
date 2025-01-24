@@ -8,7 +8,7 @@
       <title lang="EN">e-paper Skin</title>
       <desc lang="EN">A Lyrion Media Server sink, suitable for e-paper use.</desc>
       <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/v0.1/lms-epaper-skin-0.1.zip</url>
-      <sha>8d6954b59cc78958c8d5097af1c44ff65633cb00</sha>
+      <sha>745c4b4bfec7f6e3c66a351738a8be2317eeea92</sha>
       <creator>Richard Henwood</creator>
     </plugin>
   </plugins>
