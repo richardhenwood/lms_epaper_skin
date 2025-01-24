@@ -7,8 +7,8 @@
     <plugin name="epaperskin" version="0.1" minTarget="7.5" maxTarget="*">
       <title lang="EN">e-paper Skin</title>
       <desc lang="EN">A Lyrion Media Server skin suitable for e-paper use.</desc>
-      <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/v0.1.2/lms-epaper-skin-0.1.2.zip</url>
-      <sha>8873d69e3556e30abdfffbc900dac59a00ecb723</sha>
+      <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/v0.1.4/lms-epaper-skin-0.1.4.zip</url>
+      <sha>c970235b1dd530f50710fe07b857618ccbc11cd4</sha>
       <creator>Richard Henwood</creator>
     </plugin>
   </plugins>
