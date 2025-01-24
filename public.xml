@@ -7,7 +7,7 @@
     <plugin name="epaperSkin" version="0.1" minTarget="0.1" maxTarget="*">
       <title lang="EN">e-paper Skin</title>
       <desc lang="EN">A Lyrion Media Server sink, suitable for e-paper use.</desc>
-      <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/v0.1/lms-epaper-0.1.zip</url>
+      <url>https://github.com/richardhenwood/lms_epaper_skin/releases/download/v0.1/lms-epaper-skin-0.1.zip</url>
       <sha>e84a5f047464d74eaefd772e3d1aa35a9dcb0ae3672bfa78b7316fec4aee9b5d</sha>
       <creator>Richard Henwood</creator>
     </plugin>
