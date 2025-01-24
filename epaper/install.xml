@@ -1,18 +1,17 @@
 <?xml version='1.0' standalone='yes'?>
 <extensions>
   <id>d59384c4-8505-4829-9797-55d8fe0fb4c2</id>
+  <name>PLUGIN_EPAPERSKIN</name>
   <module>Plugins::epaperskin::Plugin</module>
-  <description>PLUGIN_EPAPER_SKIN</description>
+  <description>PLUGIN_EPAPERSKIN_DESC</description>
   <creator>Richard Henwood</creator>
-  <icon>plugins/epaperskin/html/images/icon.svg</icon>
-  <version>0.1</version>
+  <icon>plugins/EpaperSkin/icon.svg</icon>
+  <version>0.1.5</version>
   <defaultState>enabled</defaultState>
-  <type>2</type>
   <homepageURL>https://github.com/richardhenwood/lms-epaper-skin</homepageURL>
   <targetApplication>
-    <minVersion>7.5</minVersion>
+    <minVersion>9.0</minVersion>
     <maxVersion>*</maxVersion>
-    <id>SlimServer</id>
+    <id>Lyrion Music Server</id>
   </targetApplication>
-  <name>EPAPER_SKIN</name>
 </extensions>
