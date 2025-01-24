@@ -1,16 +1,16 @@
 <?xml version='1.0' standalone='yes'?>
 <extensions>
-  <id>478c0d2a-a83b-41e8-88c0-f04f8c9cff85</id>
+  <id>d59384c4-8505-4829-9797-55d8fe0fb4c2</id>
   <module>Plugins::epaperskin::Plugin</module>
   <description>PLUGIN_EPAPER_SKIN</description>
   <creator>Richard Henwood</creator>
-  <icon>plugins/epaper/html/images/icon.svg</icon>
+  <icon>plugins/epaperskin/html/images/icon.svg</icon>
   <version>0.1</version>
   <defaultState>enabled</defaultState>
   <type>2</type>
   <homepageURL>https://github.com/richardhenwood/lms-epaper-skin</homepageURL>
   <targetApplication>
-    <minVersion>0.1</minVersion>
+    <minVersion>7.5</minVersion>
     <maxVersion>*</maxVersion>
     <id>SlimServer</id>
   </targetApplication>
