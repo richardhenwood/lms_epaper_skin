@@ -8,6 +8,10 @@ A skin for Lyrion Music Server suitable for e-paper displays. These displays are
 
 ## FAQ
 
+Q: How do I install this skin?
+
+A: This skin is only tested on Lyrion Music Server version 9.0. At the bottom of the 'Manage Plugins' page add https://raw.githubusercontent.com/richardhenwood/lms_epaper_skin/refs/heads/main/public.xml as an Additional Repository. Save Settings. Restart the server when prompted. Navigate to: <LMS URL>/EpaperSkin .
+
 Q: I don't want to set this as the default skin. I just want to use it on my kindle.
 
 A: On your kindle, go to your LMS server page and add: /EpaperSkin/ to the URL. Bookmark that on your kindle.
